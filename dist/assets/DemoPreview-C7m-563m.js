@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as r,f as s,G as t}from"./index-CyUwtYO3.js";const c={},a={class:"demo-preview","data-demo-preview":""};function n(e,_){return r(),s("div",a,[t(e.$slots,"default")])}const m=o(c,[["render",n]]);export{m as D};
